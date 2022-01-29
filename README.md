@@ -18,7 +18,7 @@ PHP wrapper class for "Valorant Unofficial API" by Henrik-3
 ```php
 <?php
 
-require __DIR__ . "/src/valorantapi.php"; // Requiring ValorantAPI.
+require __DIR__ . "/src/ValorantAPI.php"; // Requiring ValorantAPI.
 
 $valorantapi = new ValorantAPI(); // Create a new instance for ValorantAPI.
 
