@@ -4,7 +4,7 @@
     "description": "PHP wrapper class for \"Valorant Unofficial API\" by Henrik-3",
     "keywords": ["php valorant api"],
     "homepage": "https://github.com/BenEgeDeniz/ValorantAPI",
-    "license": "CC BY 4.0",
+    "license": "CC-BY-4.0",
     "authors": [
         {
             "name": "Ege Deniz",
